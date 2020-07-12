@@ -1,0 +1,7 @@
+name: "Unsupervised-Learning-Country-Custering"
+output_dir: "."
+navbar:
+  title: "Unsupervised Learning - Country Custering"
+  left:
+    - text: "Home"
+      href: index.html
